@@ -11,3 +11,14 @@ C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\Hell
 C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.pdb
 C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
 C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Jaxon\source\repos\HelloWorld\HelloWorld\obj\Release\netcoreapp3.1\HelloWorld.csproj.CopyComplete

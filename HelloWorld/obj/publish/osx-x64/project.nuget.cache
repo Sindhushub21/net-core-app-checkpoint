@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJb7DE5JgoAGuhWcQM7xLJGWoFVPpdWCN2qAnkk13JX+dnLgfHpWJ4rhSAK8WNeopNX5L2NntIjVUgMhk4VZng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaxon\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.13\\microsoft.netcore.app.runtime.osx-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.13\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Jaxon\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.13\\microsoft.netcore.app.host.osx-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
